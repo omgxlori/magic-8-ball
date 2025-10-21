@@ -1,0 +1,29 @@
+# Frontend (Node/Vite/React)
+**/node_modules/
+**/dist/
+**/build/
+**/.vite/
+**/*.log
+
+# Python (Flask/Django/etc.)
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.sqlite3
+**/db.sqlite3
+**/env/
+**/venv/
+**/.venv/
+**/.env
+**/.env.*    # .env.local, etc.
+
+# Coverage / reports
+**/coverage/
+**/.pytest_cache/
+
+# IDE / OS junk
+**/.DS_Store
+**/Thumbs.db
+**/.idea/
+**/.vscode/
